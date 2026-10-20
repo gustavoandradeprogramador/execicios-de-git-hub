@@ -1,0 +1,6 @@
+
+fun cadastrarUsuario(nome: String, email: String) {
+    println("Usuário cadastrado!")
+    println("Nome: $nome")
+    println("E-mail: $email")
+}
