@@ -6,5 +6,5 @@ finalizado projetos.
 
 
 
-projeto para aprender git.
+Projeto para praticar conflitos de merge.
 
