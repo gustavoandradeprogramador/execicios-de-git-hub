@@ -2,3 +2,4 @@ bem vindo ao meu segunda desafio.
 
 estou aprendendo git hub.
 
+estou utilizado terminal git bash.
