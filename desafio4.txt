@@ -1,6 +1,7 @@
-
-fun cadastrarUsuario(nome: String, email: String) {
-    println("Usuário cadastrado!")
-    println("Nome: $nome")
-    println("E-mail: $email")
+fun realizarLogin(email: String, senha: String) {
+    if (email.isNotEmpty() && senha.isNotEmpty()) {
+        println("Login realizado!")
+    } else {
+        println("Preencha o e-mail e a senha.")
+    }
 }
