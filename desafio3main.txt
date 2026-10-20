@@ -1,0 +1,9 @@
+
+fun calcularMedia(nota1: Double, nota2: Double, nota3: Double): Double {
+    return (nota1 + nota2 + nota3) / 3
+}
+
+fun main() {
+    println("Calculadora de Média")
+    println("Média: ${calcularMedia(7.0, 8.0, 9.0)}")
+}
