@@ -8,3 +8,4 @@ finalizado projetos.
 projeto para estudar conflitos
 Projeto para praticar conflitos de merge.
 
+Senha do usuario: 123456
