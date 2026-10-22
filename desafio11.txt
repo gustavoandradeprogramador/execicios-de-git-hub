@@ -1,0 +1,10 @@
+
+fun main() {
+    val nota1 = 7.0
+    val nota2 = 8.0
+    val nota3 = 9.0
+
+    val media = nota1 + nota2 + nota3 / 3
+
+    println("Media: $media")
+}
